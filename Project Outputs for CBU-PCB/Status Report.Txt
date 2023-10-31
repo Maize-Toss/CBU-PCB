@@ -1,0 +1,30 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [CBU-PCB.PrjPcb]
+   Generated File[CBU-PCB.GTO]
+   Generated File[CBU-PCB.GTP]
+   Generated File[CBU-PCB.GTS]
+   Generated File[CBU-PCB.GTL]
+   Generated File[CBU-PCB.G1]
+   Generated File[CBU-PCB.G2]
+   Generated File[CBU-PCB.GBL]
+   Generated File[CBU-PCB.GBS]
+   Generated File[CBU-PCB.GM1]
+   Generated File[CBU-PCB.GM5]
+   Generated File[CBU-PCB.GM11]
+   Generated File[CBU-PCB.GM13]
+   Generated File[CBU-PCB.GM15]
+   Generated File[CBU-PCB.GM16]
+   Generated File[CBU-PCB.GPT]
+   Generated File[CBU-PCB.GPB]
+   Generated File[CBU-PCB.GD1]
+   Generated File[CBU-PCB.GG1]
+   Generated File[CBU-PCB.GM]
+   Generated File[CBU-PCB.EXTREP]
+   Generated File[CBU-PCB.REP]
+
+
+Files Generated   : 21
+Documents Printed : 0
+
+Finished Output Generation At 2:24:48 PM On 10/31/2023
